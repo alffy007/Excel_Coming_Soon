@@ -18,7 +18,7 @@ export default function App() {
       <Spline className='controller' scene="https://prod.spline.design/EA2Uw9YxGbcTtafl/scene.splinecode" />
 
 <h1 className='helo'>EXCEL 2022</h1>
-<h2 className='soon'>We're    coming    soon</h2>
+<Spline className='soon' scene="https://prod.spline.design/OAQi2QLDTWYNsPVs/scene.splinecode" />
     </div>
   );
 }
